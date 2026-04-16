@@ -25,7 +25,7 @@ M2Tracker is not just a scraper or a simple web app. It is a **production-grade,
 Designed with an absolute obsession over **anti-scraping security**, **machine learning**, we bridge the chaotic in-game economy with structured, interactive web analytics. Whether you want to quickly evaluate your farm session with an AI screenshot calculator or track multi-million currency market trends, M2Tracker provides the ultimate toolset.
 
 <div align="center">
-  <video src="assets/homepage.mp4" width="980" autoplay muted loop playsinline controls></video>
+  <video src="https://github.com/user-attachments/assets/657531b5-a621-423b-8147-f72d96609195" autoplay loop muted playsinline width="980"></video>
 </div>
 
 ---
@@ -36,7 +36,7 @@ Designed with an absolute obsession over **anti-scraping security**, **machine l
 Simply paste or upload a screenshot of your inventory. Our custom-trained AI pipeline (YOLOv11n + MobileNetV2 + OCR) runs **entirely in your browser** to identify items, read quantities, and calculate the exact market value of your loot in seconds. It's the ultimate tool to evaluate your grinding sessions instantly and with near-perfect accuracy.
 
 <div align="center">
-  <video src="assets/calculatorAI.mp4" width="980" autoplay muted loop playsinline controls></video>
+  <video src="https://github.com/user-attachments/assets/64353d8f-7f73-43ee-94f2-2adf4538ae54" autoplay loop muted playsinline width="980"></video>
 </div>
 
 > **[🧠 Dive deeper into the AI Vision Pipeline ➔](AI_item_vision_pipeline/README.md)**
