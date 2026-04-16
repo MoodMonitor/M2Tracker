@@ -1,0 +1,12 @@
+fastapi>=0.111,<1
+uvicorn[standard]>=0.29
+sqlalchemy>=2.0
+PyMySQL>=1.1
+requests>=2.31
+redis>=5
+slowapi>=0.1.9
+cryptography>=42.0
+prometheus-client>=0.20
+python-dotenv>=1.0
+bleach>=6.1
+user-agents>=2.2
